@@ -11,7 +11,7 @@ public class Main {
 
         System.out.print("Введите ваше имя: ");
         username = scanner.nextLine();
-
+fhgdfh
         while (true) {
             System.out.print("Введите ваш пароль: ");
             password = scanner.nextLine();
